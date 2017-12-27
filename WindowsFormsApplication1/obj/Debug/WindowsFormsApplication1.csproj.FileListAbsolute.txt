@@ -1,0 +1,10 @@
+C:\Share\Robot_Simulator-noexe\Robot Simulator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Share\Robot_Simulator-noexe\Robot Simulator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MyForm.resources
+C:\Share\Robot_Simulator-noexe\Robot Simulator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Share\Robot_Simulator-noexe\Robot Simulator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Share\Robot_Simulator-noexe\Robot Simulator\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Share\Robot_Simulator-noexe\Robot Simulator\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Share\Robot_Simulator-noexe\Robot Simulator\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Share\Robot_Simulator-noexe\Robot Simulator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Share\Robot_Simulator-noexe\Robot Simulator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Share\Robot_Simulator-noexe\Robot Simulator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
